@@ -1,0 +1,153 @@
+
+Non-authoritative answer:
+Name:	github.com
+Address: 192.30.253.113
+Name:	github.com
+Address: 192.30.253.112
+
+
+Non-authoritative answer:
+Name:	cnn.com
+Address: 151.101.64.73
+Name:	cnn.com
+Address: 151.101.192.73
+Name:	cnn.com
+Address: 151.101.128.73
+Name:	cnn.com
+Address: 151.101.0.73
+
+
+Non-authoritative answer:
+Name:	reddit.com
+Address: 151.101.129.140
+Name:	reddit.com
+Address: 151.101.193.140
+Name:	reddit.com
+Address: 151.101.65.140
+Name:	reddit.com
+Address: 151.101.1.140
+
+Non-authoritative answer:
+Name:	google.com
+Address: 216.58.195.238
+
+
+Non-authoritative answer:
+Name:	gmail.com
+Address: 216.58.195.229
+
+
+Non-authoritative answer:
+Name:	facebook.com
+Address: 31.13.82.36
+
+Non-authoritative answer:
+Name:	twitter.com
+Address: 199.59.150.7
+Name:	twitter.com
+Address: 199.59.149.198
+Name:	twitter.com
+Address: 199.59.148.10
+Name:	twitter.com
+Address: 199.59.148.82
+
+Non-authoritative answer:
+Name:	twitch.tv
+Address: 52.36.196.57
+Name:	twitch.tv
+Address: 52.41.96.17
+Name:	twitch.tv
+Address: 50.112.196.159
+
+Non-authoritative answer:
+Name:	letsrobot.tv
+Address: 64.185.234.181
+
+
+Non-authoritative answer:
+Name:	instagram.com
+Address: 54.175.107.36
+Name:	instagram.com
+Address: 54.173.152.112
+Name:	instagram.com
+Address: 54.172.44.240
+Name:	instagram.com
+Address: 54.175.203.218
+Name:	instagram.com
+Address: 54.172.125.33
+Name:	instagram.com
+Address: 54.173.74.145
+Name:	instagram.com
+Address: 54.175.51.62
+Name:	instagram.com
+Address: 54.173.161.156
+
+
+Non-authoritative answer:
+Name:	yahoo.com
+Address: 206.190.36.45
+Name:	yahoo.com
+Address: 98.138.253.109
+Name:	yahoo.com
+Address: 98.139.183.24
+
+Non-authoritative answer:
+Name:	tinyurl.com
+Address: 104.20.88.65
+Name:	tinyurl.com
+Address: 104.20.87.65
+
+
+Non-authoritative answer:
+Name:	imgur.com
+Address: 151.101.40.193
+
+
+Non-authoritative answer:
+Name:	linkedin.com
+Address: 108.174.10.10
+
+
+Non-authoritative answer:
+Name:	youtube.com
+Address: 216.58.195.238
+
+
+Non-authoritative answer:
+Name:	netflix.com
+Address: 52.10.168.78
+Name:	netflix.com
+Address: 52.10.182.43
+Name:	netflix.com
+Address: 50.112.213.184
+Name:	netflix.com
+Address: 54.186.166.179
+Name:	netflix.com
+Address: 52.10.253.164
+Name:	netflix.com
+Address: 52.38.135.254
+Name:	netflix.com
+Address: 52.38.154.122
+Name:	netflix.com
+Address: 52.37.95.45
+
+
+Non-authoritative answer:
+Name:	hulu.com
+Address: 23.55.165.221
+
+
+Non-authoritative answer:
+Name:	amazon.com
+Address: 54.239.25.192
+Name:	amazon.com
+Address: 54.239.17.7
+Name:	amazon.com
+Address: 54.239.17.6
+Name:	amazon.com
+Address: 54.239.26.128
+Name:	amazon.com
+Address: 54.239.25.208
+Name:	amazon.com
+Address: 54.239.25.200
+

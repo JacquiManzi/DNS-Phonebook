@@ -25,6 +25,6 @@ declare host=""
 
 for i in "${sites[@]}"
 do
-   nslookup "$i" >> "$file"
+   nslookup "$i"  >> "$file"
 
 done
